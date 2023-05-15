@@ -3,6 +3,11 @@
 <p align="center">Meu nome é Emily da Silva Serafim e estou no 2° ano do ensino médio. 📝
 </p>
 
+<p align="center">
+  <div>
+    <div align=center>
+      
+![Patinho](https://github.com/EmilySeraf/EmilySeraf/blob/master/gif.gif)
 
 ## Minhas Redes Sociais: 🌐
 
