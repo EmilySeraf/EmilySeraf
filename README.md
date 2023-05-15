@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, Seja Bem Vindo(a) ao meu perfil! 👋
 </h1>
-<p align="center">Meu nome é Emily da Silva Serafim e estou no 2° ano do ensino médio  Ano e 1° ano de TI em Software. 📝
+<p align="center">Meu nome é Emily da Silva Serafim e estou no 2° ano do ensino médio e no 1° ano de TI em Software. 📝
 </p>
 
 <p align="center">
