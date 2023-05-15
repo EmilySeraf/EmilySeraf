@@ -7,8 +7,8 @@
   <div>
     <div align=center>
       
-![Patinho](https://github.com/EmilySeraf/EmilySeraf/blob/master/gif.gif)
-
+![Gif](https://github.com/EmilySeraf/EmilySeraf/blob/master/programa.gif) 
+      
 ## Minhas Redes Sociais: 🌐
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_emily.serafim) 
