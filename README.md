@@ -8,3 +8,6 @@ Meu nome é Emily da Silva Serafim e estou no 2° ano do ensino médio. 📝
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_emily.serafim) 
 
+## Linguagens e Ferramentas que aprendi: 🧠
+
+
