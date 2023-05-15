@@ -2,4 +2,4 @@
 
 Meu nome é Emily da Silva Serafim e estou no 2° ano do ensino médio. 📝
 
-[Este é meu currículo](https://docs.google.com/document/d/1DcHQcFYzjJgrPt5VxJuvIRtdS9fJGk37_3E35ApLC8g/edit?usp=sharing)
+[Currículo](https://docs.google.com/document/d/1DcHQcFYzjJgrPt5VxJuvIRtdS9fJGk37_3E35ApLC8g/edit?usp=sharing)
