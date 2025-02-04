@@ -7,8 +7,6 @@
   <div>
     <div align=center>
       
-![Gif](https://github.com/EmilySeraf/EmilySeraf/blob/master/programa.gif) 
-      
       
 ## Minhas Redes Sociais: 🌐
 
